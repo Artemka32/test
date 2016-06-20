@@ -8,4 +8,17 @@
 
 echo 'asdfgsaery';
 
+
+/**
+ * @param $t
+ * @param $tt
+ * @param $hh
+ * @return int
+ */
+function On($t, $tt, $hh)
+{
+    return 444;
+
+}
+
 ?>
