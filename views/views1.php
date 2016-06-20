@@ -5,3 +5,7 @@
  * Date: 20.06.2016
  * Time: 11:21
  */
+
+echo 'asdfgsaery';
+
+?>
